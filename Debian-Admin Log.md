@@ -8,3 +8,5 @@
 17:29
 - Set up Debian Server as is with the desktop-environment-less interface/command line interface
 - Need to start connecting the other OS
+![[debianinstall.png]]
+![[debianinstall1.png]]![[debianinstall2.png]]![[debianinstall3.png]]![[debianinstall4.png]]![[debianinstall5.png]]
