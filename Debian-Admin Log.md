@@ -10,3 +10,9 @@
 - Need to start connecting the other OS
 ![[debianinstall.png]]
 ![[debianinstall1.png]]![[debianinstall2.png]]![[debianinstall3.png]]![[debianinstall4.png]]![[debianinstall5.png]]
+22:44
+- Written debian-admin.devnet.local as Debian-Admin.debian-admin.devnet.local by mistake
+![[Screenshot_20260626_223555.png]]
+23:23
+- Pinged WinXP machine
+- ![[Screenshot_20260626_232125.png]]
