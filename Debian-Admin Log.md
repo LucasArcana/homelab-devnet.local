@@ -16,3 +16,8 @@
 23:23
 - Pinged WinXP machine
 - ![[Screenshot_20260626_232125.png]]
+2026-6-27
+- Failed to ping 192.168.10.20 (Win11) due to firewall issues
+- 
+- Pinged 192.168.10.20 (Win11)
+- ![[Screenshot_20260627_222358.png]]
